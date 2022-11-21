@@ -14,3 +14,4 @@ String formatStringToInt(String inputString) {
     return 'convertion failed';
   }
 }
+
